@@ -1,5 +1,10 @@
 # 香港身份证预约配额看板
 
+> **This customized fork:** GitHub Issue alerts are configured for all six
+> offices and both sessions from **7–10 October 2026 inclusive**, checked every
+> five minutes. See [Personal GitHub Issue alerts](docs/github-issue-alerts.md)
+> for notification setup, the safe test procedure, and shutdown instructions.
+
 ![monitor](https://github.com/chen1111-a/hkid-quota-monitor/actions/workflows/monitor.yml/badge.svg)
 
 监控香港入境处六大人事登记办事处的智能身份证预约配额，约 2 分钟检测一次，
